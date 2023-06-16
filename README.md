@@ -41,3 +41,5 @@ To run the Intro Component Form locally, follow these steps:
 ## Compatibility
 
 The Intro Component Form is designed to be compatible with modern web browsers and responsive across different screen sizes.
+
+Thank you 👧🏿😊
